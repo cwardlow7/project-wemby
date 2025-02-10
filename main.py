@@ -16,3 +16,7 @@
     # Clustering? This makes most sense on surface but is there a way to take a more supervised approach?
     # Can we confirm our findings by using obvious comparisons?  i.e. Kobe and Jordan should be near each other 
     # Anything else we should consider?
+
+import nba_api
+import umap
+import hdbscan
